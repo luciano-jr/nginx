@@ -6,7 +6,7 @@ This repository contains [Nginx](http://nginx.org/) for [Docker](https://www.doc
 
 ### Base Docker Image
 
-* [luciano-jr/ubuntu](https://github.com/lucianojr/ubuntu)
+* [luciano-jr/ubuntu](https://github.com/luciano-jr/ubuntu)
 
 
 ### Installation
@@ -15,7 +15,7 @@ This repository contains [Nginx](http://nginx.org/) for [Docker](https://www.doc
 
 2. Download [automated build](https://registry.hub.docker.com/u/lucianojr/nginx/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull lucianojr/nginx`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="lucianojr/nginx" github.com/lucianojr/nginx`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="lucianojr/nginx" github.com/luciano-jr/nginx`)
 
 
 ### Usage
